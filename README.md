@@ -10,4 +10,4 @@ Sample usage is shown in the `example.tex` file and sample output in
 `example.pdf`.
 
 For more in depth analysis of this class visit 
-[my homepage](http://like-a-boss.net/2013/07/15/creating-styles-in-latex.html).
+[my homepage](http://like-a-boss.net/2013/07/15/creating-classes-in-latex.html).
